@@ -1,6 +1,6 @@
 # fintech-natural-language-processing
 
-In this project, I use natural language processing techniques (sentiment analysis, etc.) to determine the prevailing sentiment of Bitcoin and Ethereum in online sources of recent times.
+This project is part of my Fintech homework, in which I use natural language processing techniques (sentiment analysis, etc.) to determine the prevailing sentiment of Bitcoin and Ethereum which is analaysed against very recent/up-to-date online sources (at the time of creation: Aug 7, '21).
 
 ---
 ## Instructions / Intro
@@ -26,11 +26,10 @@ This Notebook explores the benefits of using a number of natural processing tech
 * Named Entity Recognition
   * Xyz
 
-
-
 ---
 ## Acknowledgements
 ### Sources
+- A "Starter Notebook" was provided by Trinity College as part of course work, which I built upon.
 - Online data sources provided by Trinity College as part of course work.
 - SpaCy "Industrial-Strength" Natural Language Processing [here](https://spacy.io/) 
 - I found blah blah.
