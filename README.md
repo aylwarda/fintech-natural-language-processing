@@ -15,13 +15,13 @@ This Notebook explores the benefits of using a number of natural language proces
 
 ### Techniques Used
 
-*Sentiment Analysis*  
+**Sentiment Analysis**  
 This explores the sentiment (positive, neutral or negative) of each of the articles (100 for each Coin) and compares the sentiment of Bitcoin against Ethereum and visa versa.  
 
-*Classic Natural Language Processing (NLP)*  
+**Classic Natural Language Processing (NLP)**  
 With NLP we explore the breaking down of the many articles into words using a process called tokenisation (in this case the "Natural Language Toolkit (NLTK) library was used) and lemmatisation, distilling the essence of what each article is saying, but also the entire body of news.  Word counts, bigrams, etc. also extracted and then visualised in Word Clouds.
 
-*Named Entity Recognition (NER)*  
+**Named Entity Recognition (NER)**  
 With NER we again look at the entire "body of news" and using SpaCy (an amazing library :)) we look at the articles (no punn intended) and sentences from a different angle in that every portion of every sentence is broken down in a number of ways, which makes understanding each article easier. NER seeks to name entities of every sentence linguistically, i.e. Bob is a name (and a noun), ten is a number (and an adjective), Google is an organisation, et cetera.  This is powerful for a number of real-world applications.  Tokenisation is implicit with SpaCy, making the extraction of all entities and easy task.
 
 ### Sidenote on [SpaCy](https://spacy.io/)
